@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885269858108",
+    "project_id": "the-kids-corner",
+    "storage_bucket": "the-kids-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885269858108:android:248a41d20ce17c00324039",
+        "android_client_info": {
+          "package_name": "com.thekidscorner.kidscorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885269858108-2cfg825lct05ecr4cfo3mrpu09bc8ev2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thekidscorner.kidscorner",
+            "certificate_hash": "e59865a9df6bcc24c3012f07627871fac26b499f"
+          }
+        },
+        {
+          "client_id": "885269858108-34l6t4p8tcvkbt2k5dcppd7utlvfjgig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thekidscorner.kidscorner",
+            "certificate_hash": "0c56e204cb6c3f54a2b5ea702a3258d39503d569"
+          }
+        },
+        {
+          "client_id": "885269858108-2fh2suhrv4supmarqgos0ckkue5itq8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQ8DEPyID8zxpAiynF-CQacM7WfQzAzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885269858108-2fh2suhrv4supmarqgos0ckkue5itq8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
